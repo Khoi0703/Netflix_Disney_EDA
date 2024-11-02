@@ -46,12 +46,6 @@ Each dataset includes:
 
 9. **Annual and Quarterly Averages**: Compute average close prices by year and quarter for a segmented time analysis.
 
-## How to Use
-
-1. Load the notebook and run each cell sequentially.
-2. Explore the visualizations and analysis to gain insights into the stock price trends and relationships.
-3. Modify or extend the analysis to include other metrics or visualizations as desired.
-
 ## Insights
 
 Key takeaways from this analysis include:
