@@ -46,22 +46,6 @@ Each dataset includes:
 
 9. **Annual and Quarterly Averages**: Compute average close prices by year and quarter for a segmented time analysis.
 
-## Requirements
-
-To run this notebook, you need the following Python libraries:
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `warnings`
-
-## Installation
-
-You can install the required libraries using:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
 ## How to Use
 
 1. Load the notebook and run each cell sequentially.
